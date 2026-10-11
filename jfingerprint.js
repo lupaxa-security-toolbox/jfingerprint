@@ -497,7 +497,7 @@
     return getHash(options);
   }
 
-  jFingerprint.version = "0.0.0";
+  jFingerprint.version = "0.1.0";
   jFingerprint.getRAW = getRAW;
   jFingerprint.getJSON = getJSON;
   jFingerprint.getHash = getHash;
